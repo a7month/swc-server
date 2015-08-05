@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="135"
+   name=""
+   committed-date="2013-11-01T08:10:00.634569Z"
+   url="svn://10.45.7.40:30000/swc-server/trunk/src/com/igs/swc/server/codec"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="6"
+   name="SwcProtocolCodecFactory.java"
+   text-time="2013-10-15T02:56:30.343750Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="a58c18e25554633140cd7d967ce09415"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:30.328125Z"/>
+<entry
+   committed-rev="6"
+   name="package-info.java"
+   text-time="2013-10-15T02:56:30.343750Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="1c4c041db496691c766f7541297a6fda"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:30.343750Z"/>
+<entry
+   committed-rev="135"
+   name="HbMsgDecoder.java"
+   text-time="2013-11-01T08:29:40.421875Z"
+   committed-date="2013-11-01T08:10:00.634569Z"
+   checksum="f40de182fb8e1dfddb88ecc514c4e86a"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T08:29:40.406250Z"/>
+<entry
+   committed-rev="129"
+   name="EventMsgDecoder.java"
+   text-time="2013-11-01T08:29:40.421875Z"
+   committed-date="2013-11-01T03:07:18.183102Z"
+   checksum="bd5544e97ba90f4206f803a082d3a970"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T08:29:40.421875Z"/>
+</wc-entries>

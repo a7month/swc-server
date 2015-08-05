@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="129"
+   name=""
+   committed-date="2013-11-01T03:07:18.183102Z"
+   url="svn://10.45.7.40:30000/swc-server/trunk/src/com/igs/swc/server/handler"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="6"
+   name="ProtocolDecoderExceptionHandler.java"
+   text-time="2013-10-15T02:56:30.375000Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="900f9c19c09c9b01c5fcd56542610fa8"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:30.359375Z"/>
+<entry
+   committed-rev="6"
+   name="package-info.java"
+   text-time="2013-10-15T02:56:30.375000Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="f0c1151bef0834f3e265b2a9b038747f"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:30.359375Z"/>
+<entry
+   committed-rev="6"
+   name="CatchAllExceptionHandler.java"
+   text-time="2013-10-15T02:56:30.375000Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="8e1e747877c5e4f6babe196132e34d67"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:30.359375Z"/>
+<entry
+   committed-rev="6"
+   name="SwcHandler.java"
+   text-time="2013-10-15T02:56:30.375000Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="fda63e6a66d7bba123ba91c8d6d59a61"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:30.359375Z"/>
+<entry
+   committed-rev="129"
+   name="HbMsgHandler.java"
+   text-time="2013-11-01T08:29:40.515625Z"
+   committed-date="2013-11-01T03:07:18.183102Z"
+   checksum="800c05878f960339e21409edd5eebf4d"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T08:29:40.515625Z"/>
+</wc-entries>

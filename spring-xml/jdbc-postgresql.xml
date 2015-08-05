@@ -1,0 +1,16 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+	http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	">
+
+	<bean id="dataSource" class="org.postgresql.ds.PGPoolingDataSource">
+		<property name="serverName" value="10.45.7.141" />
+		<property name="databaseName" value="igs" />
+		<property name="user" value="igs" />
+		<property name="password" value="igs" />
+		<property name="initialConnections" value="3" />
+	</bean>
+
+</beans>

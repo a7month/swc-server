@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2013-10-15T02:55:17.406756Z"
+   url="svn://10.45.7.40:30000/swc-server/trunk/src/com/igs/swc/server/integr"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   name="redis"
+   kind="dir"/>
+<entry
+   name="beans"
+   kind="dir"/>
+</wc-entries>

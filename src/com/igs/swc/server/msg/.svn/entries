@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="129"
+   name=""
+   committed-date="2013-11-01T03:07:18.183102Z"
+   url="svn://10.45.7.40:30000/swc-server/trunk/src/com/igs/swc/server/msg"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="129"
+   name="HbMsg.java"
+   text-time="2013-11-01T08:29:40.312500Z"
+   committed-date="2013-11-01T03:07:18.183102Z"
+   checksum="feed643297566bd6c774a8b80f99870f"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T08:29:40.312500Z"/>
+<entry
+   committed-rev="6"
+   name="package-info.java"
+   text-time="2013-10-15T02:56:30.281250Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="8a97ad11d9e30af134266518c21bdd24"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:30.265625Z"/>
+<entry
+   committed-rev="90"
+   name="Msg.java"
+   text-time="2013-10-30T08:34:49.203125Z"
+   committed-date="2013-10-30T02:28:43.166197Z"
+   checksum="5c334d56e467a8ca277838a1dbea7b47"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-30T08:34:49.203125Z"/>
+<entry
+   committed-rev="84"
+   name="EventMsg.java"
+   text-time="2013-10-29T08:27:58.109375Z"
+   committed-date="2013-10-29T08:30:26.524977Z"
+   checksum="ba543143d374b4af7fae1733f2c7a509"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-29T08:27:58.093750Z"/>
+</wc-entries>

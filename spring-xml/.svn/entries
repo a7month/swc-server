@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2013-10-15T02:55:17.406756Z"
+   url="svn://10.45.7.40:30000/swc-server/trunk/spring-xml"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="6"
+   name="swc-server.xml"
+   text-time="2013-10-15T02:56:29.437500Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="ffdb23247175125ce061392a3b56ed33"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:29.437500Z"/>
+<entry
+   committed-rev="6"
+   name="jdbc-postgresql.xml"
+   text-time="2013-10-15T02:56:29.437500Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="4a4bc45e07215de7576ad993fcaab76b"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:29.437500Z"/>
+<entry
+   committed-rev="6"
+   name="redis-server.xml"
+   text-time="2013-10-15T02:56:29.437500Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="377d5376cd64e64c8eba604ab7530b79"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:29.437500Z"/>
+</wc-entries>

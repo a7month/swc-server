@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2013-10-15T02:55:17.406756Z"
+   url="svn://10.45.7.40:30000/swc-server/trunk/src/com/igs/swc/server/integr/redis"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="6"
+   name="package-info.java"
+   text-time="2013-10-15T02:56:30.312500Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="7ff3b79516d8f9d78cfa16841def1680"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:30.312500Z"/>
+<entry
+   committed-rev="6"
+   name="ToStringRedisSerializer.java"
+   text-time="2013-10-15T02:56:30.312500Z"
+   committed-date="2013-10-15T02:55:17.406756Z"
+   checksum="5ea647b7bb11e7289ba6c3323f458503"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-15T02:56:30.312500Z"/>
+</wc-entries>
